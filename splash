@@ -1,0 +1,7 @@
+echo "# tarun" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/tarungowda1234455/tarun.git
+git push -u origin main
